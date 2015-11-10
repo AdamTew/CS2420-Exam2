@@ -33,7 +33,7 @@ Reading code.  Writing code. Determining complexity of algorithms.
 
 |Topics|Sub Topics|
 |---|---|
-|[Hashing](#hashing)|[Hash Function](#hash-function)|
+|[Hashing](hashing.md)|[Hash Function](#hash-function)|
 |						|[Collisions](#hash-collisions)|
 |						|[Rehash](#hash-rehash)|
 |						|[Efficiency](#hash-efficiency)|
